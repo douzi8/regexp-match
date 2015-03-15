@@ -1,6 +1,6 @@
 # regexp-demo
-This is a regexp demo for javascript, you can learn RegExp from next list.
-You can submit code that you think it's useful for others.
+This is a regexp demo for javascript, you can learn RegExp from next list.  
+You can submit code that you think it's useful for others.  
 And you also can submit [issue](https://github.com/douzi8/regexp-match/issues/new) if you have a problem with RegExp
 
 ## install
