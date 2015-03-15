@@ -1,0 +1,23 @@
+{
+  "name": "regexp-match",
+  "version": "1.0.0",
+  "description": "This is a regexp demo for javascript, you can learn RegExp from next list. You can submit code that you think it's useful for others.",
+  "main": "regexp.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douzi8/regexp-match.git"
+  },
+  "keywords": [
+    "regexp",
+    "js RegExp"
+  ],
+  "author": "douzi <liaowei08@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douzi8/regexp-match/issues"
+  },
+  "homepage": "https://github.com/douzi8/regexp-match"
+}
